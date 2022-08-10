@@ -63,10 +63,10 @@ const users = [
 // console.log(user1, user2, user3);
 
 
-const [{userId:firstID,name:firstName,age:firstAge},{userId:secoundID,name:secoundName,age:secoundAge},{userId:thirdId,name:thirdName,age:thirdAge},] = users;
+const [{userId:firstID,name:firstName,age:firstAge,gender:firstGender},{userId:secoundID,name:secoundName,age:secoundAge,gender:secoundGender},{userId:thirdId,name:thirdName,age:thirdAge,gender:thirdGender},] = users;
 
-console.log(firstID,firstName,firstAge);
-console.log(secoundID,secoundName,secoundAge);
-console.log(thirdId,thirdName,thirdAge);
+console.log(firstID,firstName,firstAge,firstGender);
+console.log(secoundID,secoundName,secoundAge,secoundGender);
+console.log(thirdId,thirdName,thirdAge,thirdGender);
 
 
