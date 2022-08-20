@@ -15,7 +15,7 @@ function createUser(firstName,lastName,address,age){
     user.address = address;
     user.age = age;
 
-    // yaha hamne redference addd kiya hai.
+    // yaha hamne reference addd kiya hai.
 
     // but itni sari process hamko har barr karni hogi.
 
