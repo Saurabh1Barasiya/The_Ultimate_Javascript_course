@@ -1,0 +1,15 @@
+.container {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:green;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px rgb(214, 208, 208);
+    border:2px solid red;
+    max-height: 100%;
+}
+
+body{
+    background:black;
+}
